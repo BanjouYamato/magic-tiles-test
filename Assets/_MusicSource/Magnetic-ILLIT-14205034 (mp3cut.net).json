@@ -1,0 +1,819 @@
+{
+    "tiles": [
+        {
+            "startTime": 7.615986347198486,
+            "endTime": 0.0,
+            "tileType": 0
+        },
+        {
+            "startTime": 7.893310546875,
+            "endTime": 0.0,
+            "tileType": 0
+        },
+        {
+            "startTime": 8.127982139587403,
+            "endTime": 0.0,
+            "tileType": 0
+        },
+        {
+            "startTime": 8.405328750610352,
+            "endTime": 0.0,
+            "tileType": 0
+        },
+        {
+            "startTime": 8.853310585021973,
+            "endTime": 0.0,
+            "tileType": 0
+        },
+        {
+            "startTime": 9.109319686889649,
+            "endTime": 0.0,
+            "tileType": 0
+        },
+        {
+            "startTime": 9.34399127960205,
+            "endTime": 0.0,
+            "tileType": 0
+        },
+        {
+            "startTime": 9.578661918640137,
+            "endTime": 9.983990669250489,
+            "tileType": 1
+        },
+        {
+            "startTime": 10.26131534576416,
+            "endTime": 0.0,
+            "tileType": 0
+        },
+        {
+            "startTime": 10.53866195678711,
+            "endTime": 0.0,
+            "tileType": 0
+        },
+        {
+            "startTime": 10.794648170471192,
+            "endTime": 0.0,
+            "tileType": 0
+        },
+        {
+            "startTime": 11.00798225402832,
+            "endTime": 0.0,
+            "tileType": 0
+        },
+        {
+            "startTime": 11.434648513793946,
+            "endTime": 0.0,
+            "tileType": 0
+        },
+        {
+            "startTime": 11.86131477355957,
+            "endTime": 12.138662338256836,
+            "tileType": 1
+        },
+        {
+            "startTime": 12.458662033081055,
+            "endTime": 0.0,
+            "tileType": 0
+        },
+        {
+            "startTime": 12.735986709594727,
+            "endTime": 0.0,
+            "tileType": 0
+        },
+        {
+            "startTime": 12.949319839477539,
+            "endTime": 0.0,
+            "tileType": 0
+        },
+        {
+            "startTime": 13.226643562316895,
+            "endTime": 13.589320182800293,
+            "tileType": 1
+        },
+        {
+            "startTime": 13.887981414794922,
+            "endTime": 0.0,
+            "tileType": 0
+        },
+        {
+            "startTime": 14.207982063293457,
+            "endTime": 0.0,
+            "tileType": 0
+        },
+        {
+            "startTime": 14.485328674316407,
+            "endTime": 0.0,
+            "tileType": 0
+        },
+        {
+            "startTime": 14.677324295043946,
+            "endTime": 0.0,
+            "tileType": 0
+        },
+        {
+            "startTime": 15.12532901763916,
+            "endTime": 15.615986824035645,
+            "tileType": 1
+        },
+        {
+            "startTime": 15.957324028015137,
+            "endTime": 16.618661880493165,
+            "tileType": 1
+        },
+        {
+            "startTime": 16.85331153869629,
+            "endTime": 17.407981872558595,
+            "tileType": 1
+        },
+        {
+            "startTime": 17.749319076538087,
+            "endTime": 0.0,
+            "tileType": 0
+        },
+        {
+            "startTime": 17.983991622924806,
+            "endTime": 0.0,
+            "tileType": 0
+        },
+        {
+            "startTime": 18.303991317749025,
+            "endTime": 0.0,
+            "tileType": 0
+        },
+        {
+            "startTime": 18.47464942932129,
+            "endTime": 0.0,
+            "tileType": 0
+        },
+        {
+            "startTime": 18.73065757751465,
+            "endTime": 19.32798194885254,
+            "tileType": 1
+        },
+        {
+            "startTime": 19.605329513549806,
+            "endTime": 20.22399139404297,
+            "tileType": 1
+        },
+        {
+            "startTime": 20.543991088867189,
+            "endTime": 21.034648895263673,
+            "tileType": 1
+        },
+        {
+            "startTime": 21.311994552612306,
+            "endTime": 0.0,
+            "tileType": 0
+        },
+        {
+            "startTime": 21.567981719970704,
+            "endTime": 0.0,
+            "tileType": 0
+        },
+        {
+            "startTime": 21.759977340698243,
+            "endTime": 0.0,
+            "tileType": 0
+        },
+        {
+            "startTime": 21.994647979736329,
+            "endTime": 0.0,
+            "tileType": 0
+        },
+        {
+            "startTime": 22.20798110961914,
+            "endTime": 22.591995239257814,
+            "tileType": 1
+        },
+        {
+            "startTime": 22.762653350830079,
+            "endTime": 0.0,
+            "tileType": 0
+        },
+        {
+            "startTime": 23.03997802734375,
+            "endTime": 0.0,
+            "tileType": 0
+        },
+        {
+            "startTime": 23.317323684692384,
+            "endTime": 0.0,
+            "tileType": 0
+        },
+        {
+            "startTime": 23.594648361206056,
+            "endTime": 0.0,
+            "tileType": 0
+        },
+        {
+            "startTime": 23.82931900024414,
+            "endTime": 0.0,
+            "tileType": 0
+        },
+        {
+            "startTime": 24.149320602416993,
+            "endTime": 0.0,
+            "tileType": 0
+        },
+        {
+            "startTime": 24.575986862182618,
+            "endTime": 0.0,
+            "tileType": 0
+        },
+        {
+            "startTime": 24.874649047851564,
+            "endTime": 0.0,
+            "tileType": 0
+        },
+        {
+            "startTime": 25.151994705200197,
+            "endTime": 0.0,
+            "tileType": 0
+        },
+        {
+            "startTime": 25.535985946655275,
+            "endTime": 25.855985641479493,
+            "tileType": 1
+        },
+        {
+            "startTime": 26.154647827148439,
+            "endTime": 0.0,
+            "tileType": 0
+        },
+        {
+            "startTime": 26.41065788269043,
+            "endTime": 0.0,
+            "tileType": 0
+        },
+        {
+            "startTime": 26.645328521728517,
+            "endTime": 0.0,
+            "tileType": 0
+        },
+        {
+            "startTime": 26.87997817993164,
+            "endTime": 0.0,
+            "tileType": 0
+        },
+        {
+            "startTime": 27.157323837280275,
+            "endTime": 0.0,
+            "tileType": 0
+        },
+        {
+            "startTime": 27.434648513793947,
+            "endTime": 0.0,
+            "tileType": 0
+        },
+        {
+            "startTime": 27.754648208618165,
+            "endTime": 0.0,
+            "tileType": 0
+        },
+        {
+            "startTime": 27.967981338500978,
+            "endTime": 0.0,
+            "tileType": 0
+        },
+        {
+            "startTime": 28.159976959228517,
+            "endTime": 0.0,
+            "tileType": 0
+        },
+        {
+            "startTime": 28.35199546813965,
+            "endTime": 0.0,
+            "tileType": 0
+        },
+        {
+            "startTime": 28.799978256225587,
+            "endTime": 0.0,
+            "tileType": 0
+        },
+        {
+            "startTime": 29.2053279876709,
+            "endTime": 0.0,
+            "tileType": 0
+        },
+        {
+            "startTime": 29.67464828491211,
+            "endTime": 30.741315841674806,
+            "tileType": 1
+        },
+        {
+            "startTime": 30.954648971557618,
+            "endTime": 0.0,
+            "tileType": 0
+        },
+        {
+            "startTime": 31.16798210144043,
+            "endTime": 0.0,
+            "tileType": 0
+        },
+        {
+            "startTime": 31.381315231323243,
+            "endTime": 0.0,
+            "tileType": 0
+        },
+        {
+            "startTime": 31.615985870361329,
+            "endTime": 31.914648056030275,
+            "tileType": 1
+        },
+        {
+            "startTime": 32.06399154663086,
+            "endTime": 0.0,
+            "tileType": 0
+        },
+        {
+            "startTime": 32.29866027832031,
+            "endTime": 0.0,
+            "tileType": 0
+        },
+        {
+            "startTime": 32.7039909362793,
+            "endTime": 0.0,
+            "tileType": 0
+        },
+        {
+            "startTime": 33.10932159423828,
+            "endTime": 34.68798065185547,
+            "tileType": 1
+        },
+        {
+            "startTime": 35.2213134765625,
+            "endTime": 35.477325439453128,
+            "tileType": 1
+        },
+        {
+            "startTime": 35.71199417114258,
+            "endTime": 0.0,
+            "tileType": 0
+        },
+        {
+            "startTime": 36.20265197753906,
+            "endTime": 0.0,
+            "tileType": 0
+        },
+        {
+            "startTime": 36.650657653808597,
+            "endTime": 36.90664291381836,
+            "tileType": 1
+        },
+        {
+            "startTime": 37.20532989501953,
+            "endTime": 0.0,
+            "tileType": 0
+        },
+        {
+            "startTime": 37.4613151550293,
+            "endTime": 0.0,
+            "tileType": 0
+        },
+        {
+            "startTime": 37.73866271972656,
+            "endTime": 0.0,
+            "tileType": 0
+        },
+        {
+            "startTime": 38.16532897949219,
+            "endTime": 0.0,
+            "tileType": 0
+        },
+        {
+            "startTime": 38.357322692871097,
+            "endTime": 0.0,
+            "tileType": 0
+        },
+        {
+            "startTime": 38.65598678588867,
+            "endTime": 38.9973258972168,
+            "tileType": 1
+        },
+        {
+            "startTime": 39.2746467590332,
+            "endTime": 0.0,
+            "tileType": 0
+        },
+        {
+            "startTime": 39.50931930541992,
+            "endTime": 0.0,
+            "tileType": 0
+        },
+        {
+            "startTime": 39.8079833984375,
+            "endTime": 0.0,
+            "tileType": 0
+        },
+        {
+            "startTime": 40.02131652832031,
+            "endTime": 0.0,
+            "tileType": 0
+        },
+        {
+            "startTime": 40.38399124145508,
+            "endTime": 0.0,
+            "tileType": 0
+        },
+        {
+            "startTime": 40.7253303527832,
+            "endTime": 0.0,
+            "tileType": 0
+        },
+        {
+            "startTime": 40.91732406616211,
+            "endTime": 0.0,
+            "tileType": 0
+        },
+        {
+            "startTime": 41.173309326171878,
+            "endTime": 0.0,
+            "tileType": 0
+        },
+        {
+            "startTime": 41.36532974243164,
+            "endTime": 0.0,
+            "tileType": 0
+        },
+        {
+            "startTime": 41.5999755859375,
+            "endTime": 0.0,
+            "tileType": 0
+        },
+        {
+            "startTime": 41.81331253051758,
+            "endTime": 0.0,
+            "tileType": 0
+        },
+        {
+            "startTime": 42.00532913208008,
+            "endTime": 0.0,
+            "tileType": 0
+        },
+        {
+            "startTime": 42.261314392089847,
+            "endTime": 42.90131378173828,
+            "tileType": 1
+        },
+        {
+            "startTime": 43.00798034667969,
+            "endTime": 0.0,
+            "tileType": 0
+        },
+        {
+            "startTime": 43.19997787475586,
+            "endTime": 0.0,
+            "tileType": 0
+        },
+        {
+            "startTime": 43.477325439453128,
+            "endTime": 0.0,
+            "tileType": 0
+        },
+        {
+            "startTime": 43.66931915283203,
+            "endTime": 0.0,
+            "tileType": 0
+        },
+        {
+            "startTime": 44.095985412597659,
+            "endTime": 44.394649505615237,
+            "tileType": 1
+        },
+        {
+            "startTime": 44.60798263549805,
+            "endTime": 0.0,
+            "tileType": 0
+        },
+        {
+            "startTime": 44.79997634887695,
+            "endTime": 0.0,
+            "tileType": 0
+        },
+        {
+            "startTime": 45.03464889526367,
+            "endTime": 45.3759880065918,
+            "tileType": 1
+        },
+        {
+            "startTime": 45.52532958984375,
+            "endTime": 0.0,
+            "tileType": 0
+        },
+        {
+            "startTime": 45.717323303222659,
+            "endTime": 0.0,
+            "tileType": 0
+        },
+        {
+            "startTime": 45.97331237792969,
+            "endTime": 46.39997863769531,
+            "tileType": 1
+        },
+        {
+            "startTime": 46.634647369384769,
+            "endTime": 0.0,
+            "tileType": 0
+        },
+        {
+            "startTime": 46.805328369140628,
+            "endTime": 0.0,
+            "tileType": 0
+        },
+        {
+            "startTime": 47.125328063964847,
+            "endTime": 0.0,
+            "tileType": 0
+        },
+        {
+            "startTime": 47.317325592041019,
+            "endTime": 0.0,
+            "tileType": 0
+        },
+        {
+            "startTime": 47.701316833496097,
+            "endTime": 47.999977111816409,
+            "tileType": 1
+        },
+        {
+            "startTime": 48.14931869506836,
+            "endTime": 0.0,
+            "tileType": 0
+        },
+        {
+            "startTime": 48.34131622314453,
+            "endTime": 0.0,
+            "tileType": 0
+        },
+        {
+            "startTime": 48.53330993652344,
+            "endTime": 0.0,
+            "tileType": 0
+        },
+        {
+            "startTime": 48.74664306640625,
+            "endTime": 0.0,
+            "tileType": 0
+        },
+        {
+            "startTime": 48.91732406616211,
+            "endTime": 0.0,
+            "tileType": 0
+        },
+        {
+            "startTime": 49.10932159423828,
+            "endTime": 0.0,
+            "tileType": 0
+        },
+        {
+            "startTime": 49.30131530761719,
+            "endTime": 0.0,
+            "tileType": 0
+        },
+        {
+            "startTime": 49.535987854003909,
+            "endTime": 50.02664566040039,
+            "tileType": 1
+        },
+        {
+            "startTime": 50.28265380859375,
+            "endTime": 0.0,
+            "tileType": 0
+        },
+        {
+            "startTime": 50.49598693847656,
+            "endTime": 0.0,
+            "tileType": 0
+        },
+        {
+            "startTime": 50.794647216796878,
+            "endTime": 0.0,
+            "tileType": 0
+        },
+        {
+            "startTime": 50.965328216552737,
+            "endTime": 0.0,
+            "tileType": 0
+        },
+        {
+            "startTime": 51.39199447631836,
+            "endTime": 51.66931915283203,
+            "tileType": 1
+        },
+        {
+            "startTime": 51.797325134277347,
+            "endTime": 52.074649810791019,
+            "tileType": 1
+        },
+        {
+            "startTime": 52.1386604309082,
+            "endTime": 0.0,
+            "tileType": 0
+        },
+        {
+            "startTime": 52.394649505615237,
+            "endTime": 0.0,
+            "tileType": 0
+        },
+        {
+            "startTime": 52.62931823730469,
+            "endTime": 0.0,
+            "tileType": 0
+        },
+        {
+            "startTime": 52.949317932128909,
+            "endTime": 0.0,
+            "tileType": 0
+        },
+        {
+            "startTime": 53.333309173583987,
+            "endTime": 0.0,
+            "tileType": 0
+        },
+        {
+            "startTime": 53.5466423034668,
+            "endTime": 0.0,
+            "tileType": 0
+        },
+        {
+            "startTime": 53.84532928466797,
+            "endTime": 0.0,
+            "tileType": 0
+        },
+        {
+            "startTime": 54.1866455078125,
+            "endTime": 0.0,
+            "tileType": 0
+        },
+        {
+            "startTime": 54.42131423950195,
+            "endTime": 55.03997802734375,
+            "tileType": 1
+        },
+        {
+            "startTime": 55.35997772216797,
+            "endTime": 0.0,
+            "tileType": 0
+        },
+        {
+            "startTime": 55.67997741699219,
+            "endTime": 0.0,
+            "tileType": 0
+        },
+        {
+            "startTime": 56.0853271484375,
+            "endTime": 0.0,
+            "tileType": 0
+        },
+        {
+            "startTime": 56.319976806640628,
+            "endTime": 0.0,
+            "tileType": 0
+        },
+        {
+            "startTime": 56.639976501464847,
+            "endTime": 0.0,
+            "tileType": 0
+        },
+        {
+            "startTime": 56.95997619628906,
+            "endTime": 0.0,
+            "tileType": 0
+        },
+        {
+            "startTime": 57.19464874267578,
+            "endTime": 0.0,
+            "tileType": 0
+        },
+        {
+            "startTime": 57.55732345581055,
+            "endTime": 0.0,
+            "tileType": 0
+        },
+        {
+            "startTime": 57.791996002197269,
+            "endTime": 0.0,
+            "tileType": 0
+        },
+        {
+            "startTime": 58.04798126220703,
+            "endTime": 0.0,
+            "tileType": 0
+        },
+        {
+            "startTime": 58.28265380859375,
+            "endTime": 0.0,
+            "tileType": 0
+        },
+        {
+            "startTime": 58.68798065185547,
+            "endTime": 0.0,
+            "tileType": 0
+        },
+        {
+            "startTime": 58.98664474487305,
+            "endTime": 0.0,
+            "tileType": 0
+        },
+        {
+            "startTime": 59.34931945800781,
+            "endTime": 0.0,
+            "tileType": 0
+        },
+        {
+            "startTime": 59.73331069946289,
+            "endTime": 0.0,
+            "tileType": 0
+        },
+        {
+            "startTime": 59.9466438293457,
+            "endTime": 0.0,
+            "tileType": 0
+        },
+        {
+            "startTime": 60.28798294067383,
+            "endTime": 0.0,
+            "tileType": 0
+        },
+        {
+            "startTime": 60.62931823730469,
+            "endTime": 0.0,
+            "tileType": 0
+        },
+        {
+            "startTime": 60.863990783691409,
+            "endTime": 0.0,
+            "tileType": 0
+        },
+        {
+            "startTime": 61.20532989501953,
+            "endTime": 0.0,
+            "tileType": 0
+        },
+        {
+            "startTime": 61.43997573852539,
+            "endTime": 0.0,
+            "tileType": 0
+        },
+        {
+            "startTime": 61.75997543334961,
+            "endTime": 62.42131423950195,
+            "tileType": 1
+        },
+        {
+            "startTime": 62.67732238769531,
+            "endTime": 0.0,
+            "tileType": 0
+        },
+        {
+            "startTime": 62.954647064208987,
+            "endTime": 0.0,
+            "tileType": 0
+        },
+        {
+            "startTime": 63.38131332397461,
+            "endTime": 0.0,
+            "tileType": 0
+        },
+        {
+            "startTime": 63.637325286865237,
+            "endTime": 0.0,
+            "tileType": 0
+        },
+        {
+            "startTime": 63.914649963378909,
+            "endTime": 0.0,
+            "tileType": 0
+        },
+        {
+            "startTime": 64.31997680664063,
+            "endTime": 0.0,
+            "tileType": 0
+        },
+        {
+            "startTime": 64.93865966796875,
+            "endTime": 0.0,
+            "tileType": 0
+        },
+        {
+            "startTime": 65.19464874267578,
+            "endTime": 0.0,
+            "tileType": 0
+        },
+        {
+            "startTime": 65.4293212890625,
+            "endTime": 0.0,
+            "tileType": 0
+        },
+        {
+            "startTime": 65.7066421508789,
+            "endTime": 0.0,
+            "tileType": 0
+        },
+        {
+            "startTime": 65.85598754882813,
+            "endTime": 0.0,
+            "tileType": 0
+        }
+    ]
+}
